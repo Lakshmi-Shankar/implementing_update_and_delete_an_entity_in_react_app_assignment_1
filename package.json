@@ -24,5 +24,18 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
-  }
+  },
+  "description": "In this task, we will create a React component that fetches an existing item from an API and allows the user to update it. This will help you understand CRUD operations and how to interact with APIs using React.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_1/issues"
+  },
+  "homepage": "https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_1#readme"
 }
